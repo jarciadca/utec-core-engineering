@@ -7,5 +7,5 @@ computation_valid = pi_approx > 3
 
 print(f"Language: {language}")
 print(f"Version: {version}")
-print(f"Pi approx: {pi_approx:.2f}")
-print(f"Computation valid: {computation_valid}"
+print("Pi approx:", round(pi_approx, 2))
+print(f"Computation valid: {computation_valid}")
