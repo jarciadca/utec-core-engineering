@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Importa add desde add_0 y muestra la suma 1 + 2."""
+"""Importa add desde otro fichero y muestra la suma"""
 
 from add_0 import add
 
