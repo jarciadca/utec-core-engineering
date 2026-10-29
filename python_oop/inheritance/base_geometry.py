@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Module for the BaseGeometry class."""
 
+
 class BaseGeometry:
     """Clase base para la geometría"""
 
